@@ -1,0 +1,15 @@
+h1:hover {
+  background-color: pink;
+}
+
+.monospace {
+	font-family: "Courier New", Courier, monospace;
+	font-size: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+
+.border {
+	border-style: groove;
+	border-color: pink;
+}
